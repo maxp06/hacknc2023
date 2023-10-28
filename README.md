@@ -1,3 +1,6 @@
 # hacknc2023
 
-Friendship :)
+## Frontend
+Expo Go
+cd FriendshipApp
+npx expo start
